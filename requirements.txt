@@ -1,0 +1,7 @@
+mujoco==3.11.0
+numpy
+matplotlib
+torch==2.13.0
+opencv-python-headless
+pandas
+tqdm
